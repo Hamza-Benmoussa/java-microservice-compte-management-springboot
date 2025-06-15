@@ -65,6 +65,4 @@ Ce projet est un microservice de gestion des comptes bancaires développé en ut
 
 6. **Tests DAO**: Validations et tests unitaires de la couche DAO.
 
-## Auteurs
-- **Hamza DAMIRI**
-- **II-BDCC, ENSET de Mohammedia**
+
